@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GraphNodeView/GraphNodeView.iml" filepath="$PROJECT_DIR$/GraphNodeView/GraphNodeView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GraphNodeViewProject.iml" filepath="$PROJECT_DIR$/GraphNodeViewProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GraphNodeView.iml" filepath="$PROJECT_DIR$/.idea/modules/GraphNodeView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GraphNodeView.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GraphNodeView.app.iml" />
     </modules>
   </component>
 </project>
-

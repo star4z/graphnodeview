@@ -1,1 +1,2 @@
-include ':GraphNodeView'
+include ':app'
+rootProject.name = "GraphNodeView"
